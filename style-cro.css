@@ -1,0 +1,16 @@
+p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: 20px;
+}
+
+p a{
+    color: rgb(104, 104, 104);
+    text-decoration: underline wavy rgb(99, 99, 99) 1px;
+}
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}

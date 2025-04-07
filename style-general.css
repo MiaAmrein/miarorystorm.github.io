@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(211, 211, 211);
+}
+
+#big-bg{
+    position: absolute;
+    top: 0%;
+    left: 20%;
+    width: 60%;
+    height: inherit;
+    background-color: white;
+    box-shadow: 0px 0px 25px 5px rgb(131, 131, 131);
+}
+
+ul{
+    background-color: rgb(206, 206, 206);
+    padding: 2%;
+    margin-top: 0%;
+}
+
+li{
+    display: inline;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li a{
+    padding: 3%;
+    color: rgb(128, 128, 128);
+    text-decoration: none;
+}
+
+li a:hover{
+    color: rgb(255, 255, 255);
+}
+
+footer{
+    color: rgb(185, 185, 185);
+    margin-top: 5%;
+    margin-bottom: 3%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+}
+
+#separador{
+    top: 0;
+    left: 0;
+    background-image: url(https://pixelsafari.neocities.org/dividers/more/sheetmusic.gif);
+    background-repeat: repeat-x;
+    background-size: 250px;
+    width: 100%;
+    margin-bottom: 3%;
+}
+
+.disabled{
+    pointer-events: none;
+}

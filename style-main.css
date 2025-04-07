@@ -1,0 +1,49 @@
+#img1{
+    width: 40%;
+    rotate: -3deg;
+    margin-left: 7%;
+    box-shadow: -3px 3px 5px 2px rgb(167, 167, 167);
+    display: inline-block;
+}
+
+#texto-imagen{
+    display: inline-block;
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline black 1px;
+}
+
+#epigrafe{
+    display: inline-block;
+    margin-top: 2%;
+    margin-left: 5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    opacity: 100%;
+}
+
+#imagen-texto{
+    margin-bottom: 5%;
+}
+
+p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: 20px;
+}
+
+p a{
+    color: rgb(104, 104, 104);
+    text-decoration: underline wavy rgb(99, 99, 99) 1px;
+}
+
+#img1:hover{
+    rotate: 3deg;
+}
+
+mark{
+    background-color: rgb(206, 206, 206);
+    color: rgb(117, 117, 117);
+}
